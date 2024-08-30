@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tosindgreat/my-react-app.git/static/css/main.e7334d34.css",
+    "main.js": "/tosindgreat/my-react-app.git/static/js/main.df971fa0.js",
+    "static/js/453.ad6eb26e.chunk.js": "/tosindgreat/my-react-app.git/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.png": "/tosindgreat/my-react-app.git/static/media/logo.a495ab3a6f2e902b561c.png",
+    "index.html": "/tosindgreat/my-react-app.git/index.html",
+    "main.e7334d34.css.map": "/tosindgreat/my-react-app.git/static/css/main.e7334d34.css.map",
+    "main.df971fa0.js.map": "/tosindgreat/my-react-app.git/static/js/main.df971fa0.js.map",
+    "453.ad6eb26e.chunk.js.map": "/tosindgreat/my-react-app.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7334d34.css",
+    "static/js/main.df971fa0.js"
+  ]
+}
